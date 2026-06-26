@@ -35,13 +35,13 @@ class Developer:
 - Working on graph drawing algorithms and planar graph visualization
 - Building tools with Python, NetworkX, and SageMath
 - Open to interesting problems and collaboration
-
+- Big on open source and privacy focused tech
 ---
 
 ### 📫 Reach Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nibir.neelim@usask.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nibir-neelim)
 
 
 <!---
